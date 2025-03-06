@@ -39,7 +39,7 @@ The dataset is derived from the **I-SPY2 TRIAL**, containing **clinical and imag
 
 ## 📂 Repository Structure
 ```
-BreastCancer_Prediction/
+Breast_Cancer_Prediction/
 ├── notebooks/
 │   ├── Reg_Train_RFS.ipynb  # Notebook for regression models (RFS)
 │   ├── CLF_Train_PCR.ipynb  # Notebook for classification models (PCR)
